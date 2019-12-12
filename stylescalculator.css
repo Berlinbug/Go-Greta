@@ -1,0 +1,34 @@
+body {
+    background:lightgreen;
+    color:darkgreen;
+}
+button {
+    background: darkgreen;
+    color: white;
+    width: 200px;
+}
+input, select {
+    background: whitesmoke;
+    color: navy;
+    width: 200px;
+}
+body {
+    background:lightgreen;
+    color: navy;
+    width: 400px;
+    text-align: center;
+}
+section {
+    background: yellow;
+    margin: 50px auto;
+    width: 200px;
+}
+.box { border: 6px solid darkgreen; background:lightgreen;}
+.mg-large { margin: 20px; }
+.mg-small {margin: 5px; }
+
+.pd-large { padding: 20px }
+.pd-small { padding:5px; }
+
+h1 {
+    font-family: 'Lucida Sans'}
